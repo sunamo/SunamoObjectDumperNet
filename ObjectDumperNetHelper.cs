@@ -1,4 +1,4 @@
-﻿namespace SunamoObjectDumperNet;
+namespace SunamoObjectDumperNet;
 
 public class ObjectDumperNetHelper
 {
